@@ -10,9 +10,7 @@ This project was created as part of **HackArena 2025, hosted by Masaiverse × No
 [![Backend Live](https://img.shields.io/badge/Backend-API-blue)](https://imcb.varunanalytics.com/)
 
 
-📝 Report Issue — Mobile Flow
-![Responsive mobile view](docs/screenshots/mobile-reporting.jpeg)
----
+
 
 ## ✨ Features
 
